@@ -1,0 +1,8 @@
+.my-nav a{
+    text-decoration: none;
+    color: brown;
+}
+
+.my-nav{
+    padding: 20px 40px;
+}
